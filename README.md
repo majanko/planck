@@ -98,7 +98,7 @@ working directory to it:
 
 Initialize the repo framework
 
-    repo init -u git://github.com/linneman/planck.git -m mdm9640.xml
+    repo init -u git://github.com/majanko/planck.git -m mdm9640.xml
 
 This  will  setup the  cross  build  environment to  match  Qualcomm's
 MDM9640 SoC  which is exclusively supported  initially (status January
