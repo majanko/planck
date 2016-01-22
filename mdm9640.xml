@@ -7,7 +7,7 @@
 
   <project path="oe-core" name="openembedded-core" remote="peiker" revision="refs/heads/mdm9640"/>
   <project path="oe-core/bitbake" name="bitbake" remote="oe" revision="c761751e259bb8e940552a28794b45887b5a72d9"/>
-  <project path="build" name="oe-build-conf" remote="peiker" revision="refs/heads/beaglebone"/>
+  <project path="build" name="oe-build-conf" remote="rec" revision="refs/heads/beaglebone"/>
   <project path="meta-openembedded" name="meta-openembedded" remote="oe" revision="refs/heads/dylan"/>
   <project path="meta-beagleboard" name="meta-beagleboard" remote="bb" revision="refs/heads/master"/>
   <project path="meta-mdm-peiker" name="meta-mdm-peiker" remote="peiker" revision="refs/heads/master"/>
