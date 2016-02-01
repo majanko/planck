@@ -4,6 +4,7 @@
   <remote fetch="git://github.com/beagleboard" name="bb"/>
   <remote fetch="git://github.com/linneman" name="peiker"/>
   <remote fetch="git://github.com/majanko" name="rec"/>
+  <remote fetch="git://github.com/meta-qt5" name="qt5"/>
 
   <project path="oe-core" name="openembedded-core" remote="peiker" revision="refs/heads/mdm9640"/>
   <project path="oe-core/bitbake" name="bitbake" remote="oe" revision="c761751e259bb8e940552a28794b45887b5a72d9"/>
@@ -13,5 +14,7 @@
   <project path="meta-mdm-peiker" name="meta-mdm-peiker" remote="peiker" revision="refs/heads/master"/>
 
   <project path="meta-mdm-rec" name="meta-mdm-rec" remote="rec" revision="refs/heads/master"/>
+  <project path="meta-qt5" name="meta-qt5" remote="qt5" revision="refs/heads/jethro"/>
+  
   <project path="rec/idefix" name="idefix" remote="peiker" revision="refs/heads/master"/>
 </manifest>
