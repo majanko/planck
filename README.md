@@ -146,4 +146,5 @@ hardware you might consider to use more appropriate values.
 This software can be used under the terms of the MIT License.
 
 2016-01-12 Otto Linnemann
+
 2016-03-08 Marian Vancik
