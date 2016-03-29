@@ -15,7 +15,7 @@
 
   <project path="meta-mdm-rec" name="meta-mdm-rec" remote="rec" revision="refs/heads/master"/>
   <project path="meta-mcu-rec" name="meta-mcu-rec" remote="rec" revision="refs/heads/master"/>
-  <project path="meta-qt5" name="meta-qt5" remote="qt5" revision="refs/heads/jethro"/>
+  <project path="meta-qt5" name="meta-qt5" remote="qt5" revision="refs/heads/fido"/>
   
   <project path="rec/idefix" name="idefix" remote="peiker" revision="refs/heads/master"/>
 </manifest>
